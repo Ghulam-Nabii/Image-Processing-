@@ -1,4 +1,4 @@
-# OPEN-CV
+# OPEN-CV-Operations
 
 This repository contains various image processing projects developed using OpenCV, covering a wide range of tasks, from basic image representation and color encoding to advanced filtering, scaling, and image manipulation techniques.
 
