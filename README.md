@@ -15,11 +15,9 @@ Following Image Processing Operations were performed
 * Grayscale to Black and White
 * Adaptive Thresholding
 * Average Filter
-* Median Filter
 * Gaussian Filter
 * Edge Detection Filters
 * Downscaling
 * Upscaling
-* Stitching
 * Erosion and Dilation
 * Open and Close
